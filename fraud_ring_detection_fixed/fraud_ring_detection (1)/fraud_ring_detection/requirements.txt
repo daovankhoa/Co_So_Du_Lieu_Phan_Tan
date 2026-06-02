@@ -1,0 +1,6 @@
+# Không cần thư viện ngoài — chỉ dùng Python standard library
+# hashlib, json, os, time, collections, math — tất cả đều built-in
+
+# Tùy chọn nếu muốn visualize đồ thị:
+# networkx>=3.0
+# matplotlib>=3.7

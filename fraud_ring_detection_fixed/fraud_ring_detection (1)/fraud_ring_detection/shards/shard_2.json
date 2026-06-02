@@ -1,0 +1,786 @@
+{
+  "shard_id": 2,
+  "nodes": {
+    "ACC_035": {
+      "account_id": "ACC_035",
+      "owner": "Owner_35",
+      "balance": 21887.3,
+      "risk_score": 0.943
+    },
+    "ACC_019": {
+      "account_id": "ACC_019",
+      "owner": "Owner_19",
+      "balance": 86308.98,
+      "risk_score": 0.577
+    },
+    "ACC_008": {
+      "account_id": "ACC_008",
+      "owner": "Owner_8",
+      "balance": 22823.62,
+      "risk_score": 0.589
+    },
+    "ACC_042": {
+      "account_id": "ACC_042",
+      "owner": "Owner_42",
+      "balance": 40540.65,
+      "risk_score": 0.219
+    },
+    "ACC_004": {
+      "account_id": "ACC_004",
+      "owner": "Owner_4",
+      "balance": 42770.26,
+      "risk_score": 0.03
+    },
+    "ACC_038": {
+      "account_id": "ACC_038",
+      "owner": "Owner_38",
+      "balance": 91540.21,
+      "risk_score": 0.459
+    },
+    "ACC_049": {
+      "account_id": "ACC_049",
+      "owner": "Owner_49",
+      "balance": 97136.76,
+      "risk_score": 0.861
+    },
+    "ACC_041": {
+      "account_id": "ACC_041",
+      "owner": "Owner_41",
+      "balance": 58874.01,
+      "risk_score": 0.898
+    },
+    "ACC_029": {
+      "account_id": "ACC_029",
+      "owner": "Owner_29",
+      "balance": 17176.85,
+      "risk_score": 0.379
+    },
+    "ACC_018": {
+      "account_id": "ACC_018",
+      "owner": "Owner_18",
+      "balance": 83111.06,
+      "risk_score": 0.619
+    },
+    "ACC_046": {
+      "account_id": "ACC_046",
+      "owner": "Owner_46",
+      "balance": 79415.86,
+      "risk_score": 0.422
+    },
+    "ACC_021": {
+      "account_id": "ACC_021",
+      "owner": "Owner_21",
+      "balance": 23561.93,
+      "risk_score": 0.289
+    },
+    "ACC_016": {
+      "account_id": "ACC_016",
+      "owner": "Owner_16",
+      "balance": 54086.58,
+      "risk_score": 0.973
+    },
+    "ACC_032": {
+      "account_id": "ACC_032",
+      "owner": "Owner_32",
+      "balance": 84442.34,
+      "risk_score": 0.776
+    },
+    "ACC_000": {
+      "account_id": "ACC_000",
+      "owner": "Owner_0",
+      "balance": 64303.25,
+      "risk_score": 0.025
+    },
+    "ACC_024": {
+      "account_id": "ACC_024",
+      "owner": "Owner_24",
+      "balance": 63932.76,
+      "risk_score": 0.365
+    },
+    "ACC_044": {
+      "account_id": "ACC_044",
+      "owner": "Owner_44",
+      "balance": 10000.03,
+      "risk_score": 0.047
+    },
+    "ACC_009": {
+      "account_id": "ACC_009",
+      "owner": "Owner_9",
+      "balance": 81133.62,
+      "risk_score": 0.006
+    },
+    "ACC_006": {
+      "account_id": "ACC_006",
+      "owner": "Owner_6",
+      "balance": 3627.06,
+      "risk_score": 0.199
+    },
+    "ACC_047": {
+      "account_id": "ACC_047",
+      "owner": "Owner_47",
+      "balance": 7289.24,
+      "risk_score": 0.382
+    },
+    "ACC_017": {
+      "account_id": "ACC_017",
+      "owner": "Owner_17",
+      "balance": 38474.9,
+      "risk_score": 0.552
+    },
+    "ACC_015": {
+      "account_id": "ACC_015",
+      "owner": "Owner_15",
+      "balance": 80905.7,
+      "risk_score": 0.73
+    },
+    "ACC_040": {
+      "account_id": "ACC_040",
+      "owner": "Owner_40",
+      "balance": 56575.45,
+      "risk_score": 0.263
+    },
+    "ACC_048": {
+      "account_id": "ACC_048",
+      "owner": "Owner_48",
+      "balance": 99616.02,
+      "risk_score": 0.529
+    },
+    "ACC_034": {
+      "account_id": "ACC_034",
+      "owner": "Owner_34",
+      "balance": 32229.85,
+      "risk_score": 0.268
+    },
+    "ACC_045": {
+      "account_id": "ACC_045",
+      "owner": "Owner_45",
+      "balance": 11855.26,
+      "risk_score": 0.627
+    },
+    "ACC_036": {
+      "account_id": "ACC_036",
+      "owner": "Owner_36",
+      "balance": 87760.4,
+      "risk_score": 0.315
+    },
+    "ACC_030": {
+      "account_id": "ACC_030",
+      "owner": "Owner_30",
+      "balance": 98962.81,
+      "risk_score": 0.64
+    },
+    "ACC_020": {
+      "account_id": "ACC_020",
+      "owner": "Owner_20",
+      "balance": 70752.61,
+      "risk_score": 0.046
+    },
+    "ACC_037": {
+      "account_id": "ACC_037",
+      "owner": "Owner_37",
+      "balance": 65888.43,
+      "risk_score": 0.396
+    },
+    "ACC_025": {
+      "account_id": "ACC_025",
+      "owner": "Owner_25",
+      "balance": 37647.92,
+      "risk_score": 0.21
+    },
+    "ACC_028": {
+      "account_id": "ACC_028",
+      "owner": "Owner_28",
+      "balance": 17942.73,
+      "risk_score": 0.729
+    },
+    "ACC_027": {
+      "account_id": "ACC_027",
+      "owner": "Owner_27",
+      "balance": 65155.5,
+      "risk_score": 0.609
+    },
+    "ACC_023": {
+      "account_id": "ACC_023",
+      "owner": "Owner_23",
+      "balance": 10999.14,
+      "risk_score": 0.278
+    },
+    "ACC_033": {
+      "account_id": "ACC_033",
+      "owner": "Owner_33",
+      "balance": 23675.76,
+      "risk_score": 0.032
+    },
+    "ACC_014": {
+      "account_id": "ACC_014",
+      "owner": "Owner_14",
+      "balance": 84901.94,
+      "risk_score": 0.604
+    },
+    "ACC_001": {
+      "account_id": "ACC_001",
+      "owner": "Owner_1",
+      "balance": 28227.9,
+      "risk_score": 0.223
+    },
+    "ACC_022": {
+      "account_id": "ACC_022",
+      "owner": "Owner_22",
+      "balance": 8899.41,
+      "risk_score": 0.233
+    }
+  },
+  "edges": [
+    {
+      "tx_id": "TX_0072",
+      "from": "ACC_035",
+      "to": "ACC_019",
+      "amount": 9324.38,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0016",
+      "from": "ACC_008",
+      "to": "ACC_042",
+      "amount": 4805.3,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0055",
+      "from": "ACC_004",
+      "to": "ACC_038",
+      "amount": 772.81,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0002",
+      "from": "ACC_049",
+      "to": "ACC_041",
+      "amount": 3467.74,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0047",
+      "from": "ACC_029",
+      "to": "ACC_018",
+      "amount": 4287.77,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0048",
+      "from": "ACC_046",
+      "to": "ACC_035",
+      "amount": 6652.53,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0080",
+      "from": "ACC_021",
+      "to": "ACC_049",
+      "amount": 1395.11,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0005",
+      "from": "ACC_016",
+      "to": "ACC_032",
+      "amount": 7643.43,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0063",
+      "from": "ACC_019",
+      "to": "ACC_029",
+      "amount": 3230.15,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0046",
+      "from": "ACC_000",
+      "to": "ACC_024",
+      "amount": 2725.51,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0084",
+      "from": "ACC_044",
+      "to": "ACC_009",
+      "amount": 5501.34,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0074",
+      "from": "ACC_006",
+      "to": "ACC_047",
+      "amount": 5576.91,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0075",
+      "from": "ACC_017",
+      "to": "ACC_018",
+      "amount": 6087.82,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0037",
+      "from": "ACC_006",
+      "to": "ACC_015",
+      "amount": 1996.74,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0077",
+      "from": "ACC_040",
+      "to": "ACC_016",
+      "amount": 5103.55,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0073",
+      "from": "ACC_006",
+      "to": "ACC_008",
+      "amount": 2718.21,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0021",
+      "from": "ACC_042",
+      "to": "ACC_041",
+      "amount": 3796.86,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0135",
+      "from": "ACC_019",
+      "to": "ACC_048",
+      "amount": 16017.91,
+      "is_fraud_edge": true,
+      "ring_id": "RING_3"
+    },
+    {
+      "tx_id": "TX_0042",
+      "from": "ACC_034",
+      "to": "ACC_000",
+      "amount": 9693.06,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0095",
+      "from": "ACC_015",
+      "to": "ACC_017",
+      "amount": 1676.06,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0082",
+      "from": "ACC_035",
+      "to": "ACC_045",
+      "amount": 4334.1,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0030",
+      "from": "ACC_036",
+      "to": "ACC_030",
+      "amount": 2505.67,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0127",
+      "from": "ACC_020",
+      "to": "ACC_037",
+      "amount": 26293.38,
+      "is_fraud_edge": true,
+      "ring_id": "RING_1"
+    },
+    {
+      "tx_id": "TX_0035",
+      "from": "ACC_041",
+      "to": "ACC_006",
+      "amount": 700.07,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0057",
+      "from": "ACC_036",
+      "to": "ACC_015",
+      "amount": 5831.3,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0056",
+      "from": "ACC_015",
+      "to": "ACC_025",
+      "amount": 1286.88,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0040",
+      "from": "ACC_004",
+      "to": "ACC_028",
+      "amount": 8099.42,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0107",
+      "from": "ACC_020",
+      "to": "ACC_027",
+      "amount": 6101.47,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0067",
+      "from": "ACC_016",
+      "to": "ACC_008",
+      "amount": 9339.27,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0085",
+      "from": "ACC_023",
+      "to": "ACC_037",
+      "amount": 5570.0,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0112",
+      "from": "ACC_047",
+      "to": "ACC_042",
+      "amount": 2050.65,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0015",
+      "from": "ACC_004",
+      "to": "ACC_048",
+      "amount": 5373.79,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0022",
+      "from": "ACC_033",
+      "to": "ACC_028",
+      "amount": 1297.94,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0028",
+      "from": "ACC_015",
+      "to": "ACC_017",
+      "amount": 6722.88,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0099",
+      "from": "ACC_014",
+      "to": "ACC_001",
+      "amount": 6634.33,
+      "is_fraud_edge": false
+    },
+    {
+      "tx_id": "TX_0106",
+      "from": "ACC_027",
+      "to": "ACC_022",
+      "amount": 7312.6,
+      "is_fraud_edge": false
+    }
+  ],
+  "adjacency": {
+    "ACC_035": [
+      {
+        "to": "ACC_019",
+        "tx_id": "TX_0072",
+        "amount": 9324.38,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_045",
+        "tx_id": "TX_0082",
+        "amount": 4334.1,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_008": [
+      {
+        "to": "ACC_042",
+        "tx_id": "TX_0016",
+        "amount": 4805.3,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_004": [
+      {
+        "to": "ACC_038",
+        "tx_id": "TX_0055",
+        "amount": 772.81,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_028",
+        "tx_id": "TX_0040",
+        "amount": 8099.42,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_048",
+        "tx_id": "TX_0015",
+        "amount": 5373.79,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_049": [
+      {
+        "to": "ACC_041",
+        "tx_id": "TX_0002",
+        "amount": 3467.74,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_029": [
+      {
+        "to": "ACC_018",
+        "tx_id": "TX_0047",
+        "amount": 4287.77,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_046": [
+      {
+        "to": "ACC_035",
+        "tx_id": "TX_0048",
+        "amount": 6652.53,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_021": [
+      {
+        "to": "ACC_049",
+        "tx_id": "TX_0080",
+        "amount": 1395.11,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_016": [
+      {
+        "to": "ACC_032",
+        "tx_id": "TX_0005",
+        "amount": 7643.43,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_008",
+        "tx_id": "TX_0067",
+        "amount": 9339.27,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_019": [
+      {
+        "to": "ACC_029",
+        "tx_id": "TX_0063",
+        "amount": 3230.15,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_048",
+        "tx_id": "TX_0135",
+        "amount": 16017.91,
+        "is_fraud_edge": true
+      }
+    ],
+    "ACC_000": [
+      {
+        "to": "ACC_024",
+        "tx_id": "TX_0046",
+        "amount": 2725.51,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_044": [
+      {
+        "to": "ACC_009",
+        "tx_id": "TX_0084",
+        "amount": 5501.34,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_006": [
+      {
+        "to": "ACC_047",
+        "tx_id": "TX_0074",
+        "amount": 5576.91,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_015",
+        "tx_id": "TX_0037",
+        "amount": 1996.74,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_008",
+        "tx_id": "TX_0073",
+        "amount": 2718.21,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_017": [
+      {
+        "to": "ACC_018",
+        "tx_id": "TX_0075",
+        "amount": 6087.82,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_040": [
+      {
+        "to": "ACC_016",
+        "tx_id": "TX_0077",
+        "amount": 5103.55,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_042": [
+      {
+        "to": "ACC_041",
+        "tx_id": "TX_0021",
+        "amount": 3796.86,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_034": [
+      {
+        "to": "ACC_000",
+        "tx_id": "TX_0042",
+        "amount": 9693.06,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_015": [
+      {
+        "to": "ACC_017",
+        "tx_id": "TX_0095",
+        "amount": 1676.06,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_025",
+        "tx_id": "TX_0056",
+        "amount": 1286.88,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_017",
+        "tx_id": "TX_0028",
+        "amount": 6722.88,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_036": [
+      {
+        "to": "ACC_030",
+        "tx_id": "TX_0030",
+        "amount": 2505.67,
+        "is_fraud_edge": false
+      },
+      {
+        "to": "ACC_015",
+        "tx_id": "TX_0057",
+        "amount": 5831.3,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_020": [
+      {
+        "to": "ACC_037",
+        "tx_id": "TX_0127",
+        "amount": 26293.38,
+        "is_fraud_edge": true
+      },
+      {
+        "to": "ACC_027",
+        "tx_id": "TX_0107",
+        "amount": 6101.47,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_041": [
+      {
+        "to": "ACC_006",
+        "tx_id": "TX_0035",
+        "amount": 700.07,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_023": [
+      {
+        "to": "ACC_037",
+        "tx_id": "TX_0085",
+        "amount": 5570.0,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_047": [
+      {
+        "to": "ACC_042",
+        "tx_id": "TX_0112",
+        "amount": 2050.65,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_033": [
+      {
+        "to": "ACC_028",
+        "tx_id": "TX_0022",
+        "amount": 1297.94,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_014": [
+      {
+        "to": "ACC_001",
+        "tx_id": "TX_0099",
+        "amount": 6634.33,
+        "is_fraud_edge": false
+      }
+    ],
+    "ACC_027": [
+      {
+        "to": "ACC_022",
+        "tx_id": "TX_0106",
+        "amount": 7312.6,
+        "is_fraud_edge": false
+      }
+    ]
+  },
+  "cross_edges": [
+    "TX_0072",
+    "TX_0055",
+    "TX_0002",
+    "TX_0047",
+    "TX_0048",
+    "TX_0005",
+    "TX_0046",
+    "TX_0084",
+    "TX_0074",
+    "TX_0037",
+    "TX_0073",
+    "TX_0021",
+    "TX_0135",
+    "TX_0095",
+    "TX_0030",
+    "TX_0127",
+    "TX_0035",
+    "TX_0056",
+    "TX_0040",
+    "TX_0067",
+    "TX_0085",
+    "TX_0112",
+    "TX_0015",
+    "TX_0022",
+    "TX_0028",
+    "TX_0099",
+    "TX_0106"
+  ]
+}
